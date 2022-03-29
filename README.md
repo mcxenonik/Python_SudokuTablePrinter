@@ -1,4 +1,4 @@
-# Mrówka Langtona
+# Drukarka Sudoku
 
 Program drukujący tablice do Sudoku wypełnione liczbami wskazanymi przez użytkownika.
 
